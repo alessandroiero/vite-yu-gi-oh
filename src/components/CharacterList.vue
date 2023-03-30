@@ -38,7 +38,7 @@ import AppNumbers from './AppNumbers.vue';
     .lista{
         .cards{
             .card{
-                background-color: orange;
+                background-color: #d48f38;
             }
         }
         background-color: white;

@@ -6,14 +6,14 @@ import CharacterList from './CharacterList.vue';
         components: {
             CharacterSearch,
             CharacterList
-        }
+        },
+        
     }
 </script>
 
 <template>
     <main>
         <div class="container">
-            <CharacterSearch />
             <CharacterList />
         </div>
     </main>
@@ -22,5 +22,4 @@ import CharacterList from './CharacterList.vue';
 
 
 <style lang="scss" scoped>
-    
 </style>
